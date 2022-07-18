@@ -37,6 +37,18 @@
         font-weight: 700;
     }
 
+    #first-section .right {
+        text-align: center;
+    }
+
+    #first-section .right img {
+        width: 75%;
+    }
+
+    #recipies .my-row .custom {
+        width: 100% !important;
+    }
+
     #about-me .row {
         flex-direction: column;
     }
@@ -55,6 +67,11 @@
 
     #recipies .card-row {
         flex-direction: column;
+        padding: 0px 20px !important;
+    }
+
+    #counter {
+        padding: 75px 30px 75px 30px !important;
     }
 
     #counter .row {
